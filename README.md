@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**Dhaval17-PO/Dhaval17-PO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on: **My Simple Shop** powered by _Simpletire_ [Venture to boost sales and increase new sources of revenue]
+🔭 I’m currently working on: **My Simple Shop** powered by _Simpletire_ [Venture to boost sales and increase new sources of revenue]
       [Onboarding Install network to a new venture of Simpletire to increase additional sales channel and increase digital opportunity for the install markets] 
 - 🌱 I’m currently learning [Foundational AI and AI Prompt Engineering]
 - 👯 I’m looking to collaborate on [Fintech Projects]
@@ -20,5 +13,11 @@ Here are some ideas to get you started:
 - Scrum Product Owner (Scrum Alliance)
 - Foundations of Business Analysis (Google Career Certificates)
 - Fintech Foundations (In Progress)
+- <!--
+**Dhaval17-PO/Dhaval17-PO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 
 
 
